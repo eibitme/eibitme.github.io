@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://eibitme.github.io/"/>
-  <updated>2017-12-19T09:58:57.560Z</updated>
+  <updated>2017-12-21T16:26:42.489Z</updated>
   <id>https://eibitme.github.io/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQL注入之实战 - 入门篇</title>
+    <link href="https://eibitme.github.io/2017/12/20/SQL%E6%B3%A8%E5%85%A5%E4%B9%8B%E5%AE%9E%E6%88%98%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/"/>
+    <id>https://eibitme.github.io/2017/12/20/SQL注入之实战 - 入门篇/</id>
+    <published>2017-12-20T05:15:00.000Z</published>
+    <updated>2017-12-21T16:26:42.489Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;如果一件事情你不能讲清楚，十有八九你还没有完全理解。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;玩 &lt;em&gt;Web&lt;/em&gt; 少说也有个一年半载了，看的多了，接触的知识也多了，难免会有些杂乱，说不定哪天忘个一二的，为了避免重复加无休止的找轮子，造轮子，只能把平时的知识点记录一下来了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Web安全研究笔记" scheme="https://eibitme.github.io/categories/Web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="SQL Injection" scheme="https://eibitme.github.io/tags/SQL-Injection/"/>
+    
+      <category term="SQLi 实战篇" scheme="https://eibitme.github.io/tags/SQLi-%E5%AE%9E%E6%88%98%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL注入之细节 - 入门篇</title>
+    <link href="https://eibitme.github.io/2017/12/20/SQL%E6%B3%A8%E5%85%A5%E4%B9%8B%E7%BB%86%E8%8A%82%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/"/>
+    <id>https://eibitme.github.io/2017/12/20/SQL注入之细节 - 入门篇/</id>
+    <published>2017-12-20T03:23:00.000Z</published>
+    <updated>2017-12-21T05:28:27.648Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;仁者见仁,智者见智 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;SQL注入漏洞产生的原因是网站应用程序在编写时未对用户提交至服务器的数据进行合法性校验，即没有进行有效地特殊字符过滤，导致网站服务器存在安全风险，这就是SQL Injection，即SQL注入漏洞。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Web安全研究笔记" scheme="https://eibitme.github.io/categories/Web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="SQL Injection" scheme="https://eibitme.github.io/tags/SQL-Injection/"/>
+    
+      <category term="SQLi 细节篇" scheme="https://eibitme.github.io/tags/SQLi-%E7%BB%86%E8%8A%82%E7%AF%87/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客搭建笔记</title>

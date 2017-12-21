@@ -4,6 +4,50 @@
 
     
   <url>
+    <loc>https://eibitme.github.io/2017/12/20/SQL%E6%B3%A8%E5%85%A5%E4%B9%8B%E5%AE%9E%E6%88%98%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/</loc>
+    <lastmod>2017-12-21T16:26:42.489Z</lastmod>
+    <data>
+        <display>
+        <title>SQL注入之实战 - 入门篇</title>
+        <pubTime>2017-12-20T05:15:00.000Z</pubTime>
+        
+        <tag>SQL Injection</tag>
+         
+        <tag>SQLi 实战篇</tag>
+         
+         
+           
+             
+              <breadCrumb title="Web安全研究笔记" url="https://eibitme.github.io/categories/Web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://eibitme.github.io/2017/12/20/SQL%E6%B3%A8%E5%85%A5%E4%B9%8B%E7%BB%86%E8%8A%82%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/</loc>
+    <lastmod>2017-12-21T05:28:27.648Z</lastmod>
+    <data>
+        <display>
+        <title>SQL注入之细节 - 入门篇</title>
+        <pubTime>2017-12-20T03:23:00.000Z</pubTime>
+        
+        <tag>SQL Injection</tag>
+         
+        <tag>SQLi 细节篇</tag>
+         
+         
+           
+             
+              <breadCrumb title="Web安全研究笔记" url="https://eibitme.github.io/categories/Web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://eibitme.github.io/2017/12/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2017-12-19T09:58:57.560Z</lastmod>
     <data>
